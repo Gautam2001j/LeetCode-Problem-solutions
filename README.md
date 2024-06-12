@@ -7,6 +7,7 @@ These are my LeetCode Problem Solutions
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0328-odd-even-linked-list) |
+| [0838-design-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0838-design-linked-list) |
 # Two Pointers
 |  |
 | ------- |
@@ -19,3 +20,7 @@ These are my LeetCode Problem Solutions
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0234-palindrome-linked-list) |
+# Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0838-design-linked-list) |
