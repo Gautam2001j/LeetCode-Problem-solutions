@@ -28,7 +28,7 @@ class Solution {
             node.next = new ListNode(sum);
             node = node.next;
         }
-        if(carry==1 ){
+        if(carry==1 ){ //if the carry is remaining at last of the sum
             node.next = new ListNode(1);
         }
         return result.next;
