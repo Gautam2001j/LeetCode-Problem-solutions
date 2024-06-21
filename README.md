@@ -9,6 +9,7 @@ These are my LeetCode Problem Solutions
 | [0021-merge-two-sorted-lists](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0838-design-linked-list) |
 # Two Pointers
 |  |
@@ -32,3 +33,11 @@ These are my LeetCode Problem Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0002-add-two-numbers) |
+# Depth-First Search
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
