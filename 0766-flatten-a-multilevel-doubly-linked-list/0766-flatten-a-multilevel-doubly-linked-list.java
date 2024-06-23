@@ -11,26 +11,22 @@ class Node {
 class Solution {
     public Node flatten(Node head) {
         if( head == null) return head;
-	// Pointer
-        Node p = head; 
-        while( p!= null) {
-            /* CASE 1: if no child, proceed */
-            if( p.child == null ) {
-                p = p.next;
-                continue;
+        Node curr = head;
+        while(curr != null){
+            if(curr.child != null){
+                Node newnode = curr.next;
+                curr.next = flatten(curr.child);
+                curr.next.prev = curr;
+                curr.child = null;
+                while(curr.next != null){
+                    curr = curr.next;
+                }
+                if(newnode != null){
+                    curr.next = newnode;
+                    curr.next.prev = curr;
+                }
             }
-            /* CASE 2: got child, find the tail of the child and link it to p.next */
-            Node temp = p.child;
-            // Find the tail of the child
-            while( temp.next != null ) 
-                temp = temp.next;
-            // Connect tail with p.next, if it is not null
-            temp.next = p.next;  
-            if( p.next != null )  p.next.prev = temp;
-            // Connect p with p.child, and remove p.child
-            p.next = p.child; 
-            p.child.prev = p;
-            p.child = null;
+            curr = curr.next;
         }
         return head;
     }
