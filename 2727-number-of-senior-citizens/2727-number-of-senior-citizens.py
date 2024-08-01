@@ -1,10 +1,10 @@
 class Solution(object):
     def countSeniors(self, details):
-        c = 0
-        for i in details:
-            if int(i[11:13]) > 60:
-                c += 1
-        return c
+        i = 0
+        for p in details:
+            if int(p[11:13]) > 60:
+                i += 1
+        return i
         """
         :type details: List[str]
         :rtype: int
