@@ -46,9 +46,14 @@ These are my LeetCode Problem Solutions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2727-number-of-senior-citizens](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/2727-number-of-senior-citizens) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
