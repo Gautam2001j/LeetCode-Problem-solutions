@@ -47,6 +47,7 @@ These are my LeetCode Problem Solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2727-number-of-senior-citizens](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
