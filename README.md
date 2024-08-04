@@ -48,6 +48,7 @@ These are my LeetCode Problem Solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2727-number-of-senior-citizens](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/2727-number-of-senior-citizens) |
 ## String
@@ -58,6 +59,7 @@ These are my LeetCode Problem Solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +68,9 @@ These are my LeetCode Problem Solutions
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Binary Search
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
