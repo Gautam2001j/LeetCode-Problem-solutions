@@ -73,4 +73,8 @@ These are my LeetCode Problem Solutions
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
