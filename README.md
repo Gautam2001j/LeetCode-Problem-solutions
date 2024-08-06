@@ -88,4 +88,5 @@ These are my LeetCode Problem Solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
