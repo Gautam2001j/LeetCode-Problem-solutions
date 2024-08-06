@@ -84,4 +84,8 @@ These are my LeetCode Problem Solutions
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
