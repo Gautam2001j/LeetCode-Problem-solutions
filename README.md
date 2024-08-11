@@ -47,6 +47,7 @@ These are my LeetCode Problem Solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -65,16 +66,19 @@ These are my LeetCode Problem Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0268-missing-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Database
 |  |
@@ -89,6 +93,7 @@ These are my LeetCode Problem Solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -102,4 +107,8 @@ These are my LeetCode Problem Solutions
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
