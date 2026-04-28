@@ -10,14 +10,11 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
         temp = head
-        stack = []
-        while temp != None:
-            stack.append(temp.val)
-            temp = temp.next
-        
-        temp = head
-        while temp != None:
-            temp.val = stack.pop()
-            temp = temp.next
+        prev = None
+        while temp!=None:
+            front = temp.next
+            temp.next = prev
+            prev = temp
+            temp = front
 
-        return head
+        return prev
