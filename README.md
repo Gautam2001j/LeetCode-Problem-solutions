@@ -104,6 +104,7 @@ These are my LeetCode Problem Solutions
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -124,5 +125,6 @@ These are my LeetCode Problem Solutions
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
