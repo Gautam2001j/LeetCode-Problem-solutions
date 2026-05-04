@@ -10,14 +10,14 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        if head==None or head.next==None:
+        if head==None or head.next==None:#if LL has only one node or LL is empty
             return None
         count = 0
         temp = head
         while temp!=None:
             count += 1
             temp = temp.next
-        if n == count:
+        if n == count: #if deleting head
             return head.next
         deletenode = count - n
         temp = head
@@ -26,7 +26,6 @@ class Solution(object):
             if deletenode <= 0:
                 break
             temp = temp.next
-        print(temp)
         delnode = temp.next
         temp.next = delnode.next
         delnode = None
