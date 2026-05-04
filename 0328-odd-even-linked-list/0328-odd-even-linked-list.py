@@ -6,21 +6,18 @@
 class Solution(object):
     def oddEvenList(self, head):
         """
-        :type head: ListNode
-        :rtype: ListNode
+        :type head: Optional[ListNode]
+        :rtype: Optional[ListNode]
         """
-        if head == None or head.next == None :
+        if not head or not head.next:
             return head
         odd = head
         even = head.next
-        oddhead = odd
         evenhead = even
-        while even!=None and even.next!=None :
-            odd.next=even.next
-            odd=odd.next
-            even.next=odd.next
-            even=even.next
-        odd.next=evenhead
-        if even!=None :
-            even.next=None
-        return oddhead
+        while even!=None and even.next!=None:
+            odd.next = odd.next.next
+            even.next = even.next.next
+            odd = odd.next
+            even = even.next
+        odd.next = evenhead
+        return head
