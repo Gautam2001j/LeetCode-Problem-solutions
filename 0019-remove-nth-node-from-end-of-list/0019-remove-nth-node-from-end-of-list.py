@@ -10,24 +10,26 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        if head==None or head.next==None:#if LL has only one node or LL is empty
+        if head is None:
             return None
-        count = 0
-        temp = head
-        while temp!=None:
-            count += 1
-            temp = temp.next
-        if n == count: #if deleting head
+
+        slow = head
+        fast = head
+
+        # Move fast n steps ahead
+        for _ in range(n):
+            fast = fast.next
+
+        # If we need to delete head
+        if fast is None:
             return head.next
-        deletenode = count - n
-        temp = head
-        while temp!=None:
-            deletenode -= 1
-            if deletenode <= 0:
-                break
-            temp = temp.next
-        delnode = temp.next
-        temp.next = delnode.next
-        delnode = None
+
+        # Move both pointers
+        while fast.next:
+            slow = slow.next
+            fast = fast.next
+
+        # Delete node
+        slow.next = slow.next.next
 
         return head
