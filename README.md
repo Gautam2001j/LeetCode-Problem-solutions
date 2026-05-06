@@ -66,6 +66,7 @@ These are my LeetCode Problem Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -81,6 +82,7 @@ These are my LeetCode Problem Solutions
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0268-missing-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -138,6 +140,7 @@ These are my LeetCode Problem Solutions
 | [0021-merge-two-sorted-lists](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0328-odd-even-linked-list) |
@@ -147,4 +150,12 @@ These are my LeetCode Problem Solutions
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
