@@ -57,6 +57,7 @@ These are my LeetCode Problem Solutions
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/0008-string-to-integer-atoi) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Gautam2001j/LeetCode-Problem-solutions/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
